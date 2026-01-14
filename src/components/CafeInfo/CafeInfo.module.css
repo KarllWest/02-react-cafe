@@ -1,0 +1,14 @@
+.container {
+  margin-bottom: 40px;
+}
+.title {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  color: #2e2f42;
+}
+.description {
+  font-size: 16px;
+  color: #434455;
+  line-height: 1.5;
+}
